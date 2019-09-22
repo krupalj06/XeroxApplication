@@ -1,5 +1,7 @@
 package com.xworkz;
 
+import com.sun.glass.ui.SystemClipboard;
+
 public class Tester {
 	
 	public static void main(String[] args) {
@@ -9,6 +11,8 @@ public class Tester {
 		System.out.println(" Biometric discussion over");
 		System.out.println(" --- DKS ----");
 		System.out.println( " Rishibavathi ");
+		
+		System.out.println( " Edited for Git ");
 	}
 
 }
